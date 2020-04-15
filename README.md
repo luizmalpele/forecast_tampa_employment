@@ -8,6 +8,7 @@
 |:-------------|:--------------|:------------|:-------------|
 |tpa_unemp |Unemployment within MSA|double|%10.0g|
 |daten|Numeric (daily) date|float|%td|
+|date|Raw Date Format| float|%tm|
 |tpa_nonfarm| Total Nonfarm Employees with the MSA|double	|%10.0g	|
 |tpa_bp |	New Private Housing Authorized by Building Permits |double	|%10.0g|
 |tpa_tech|	Professional, Technical, and Scientific Employees |double	|%10.0g|
