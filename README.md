@@ -5,7 +5,7 @@ Abstact: Florida’s state government sought to obtain an empirical forecast on 
 ## Data Dictionary
 
 |**Field Name**|**Description**|**Data Type**|**Display Format**|
-|:-------------:|:--------------|:------------:|:-------------|
+|:-------------|:--------------|:------------|:-------------|
 |tpa_unemp |Unemployment within MSA|double|%10.0g|
 |daten|Numeric (daily) date|Float|%td|
 |tpa_nonfarm| Total Nonfarm Employees with the MSA|double	|%10.0g	|
